@@ -1,0 +1,48 @@
+{
+    "events": [
+      {
+        "id": "1",
+        "name": "Photography",
+        "hosted":"Kathrine Wallenberg",
+        "price": "300",
+        "duration": "2 hours",
+        "location": "Stockholm",
+        "image": "photography",
+        "description":"In a soothing, repetitive tone, a young rabbit says goodnight to all the things in the room. Instead of plot, Goodnight Moon looks at the world from the eyes of a very young child, calming children with the ritual of naming each object around them. Lulling babies to sleep since 1947, this classic still ranks on bestseller lists, with some estimates of all-time copies sold worldwide topping 48 million. Find out more of the best books to help your child fall asleep."
+      },
+      {
+        "id": "2",
+        "name": "Dance de Art",
+        "hosted":"Kathrine Wallenberg",
+        "price": "free",
+        "duration": "2 hours",
+        "location": "Stockholm",
+        "image": "dan",
+        "description":"In a soothing, repetitive tone, a young rabbit says goodnight to all the things in the room. Instead of plot, Goodnight Moon looks at the world from the eyes of a very young child, calming children with the ritual of naming each object around them. Lulling babies to sleep since 1947, this classic still ranks on bestseller lists, with some estimates of all-time copies sold worldwide topping 48 million. Find out more of the best books to help your child fall asleep."
+
+
+      },
+      {
+        "id": "3",
+        "name": "Monday Music",
+        "hosted":"Kathrine Wallenberg",
+        "price": "800",
+        "duration": "4 hours",
+        "location": "Stockholm",
+        "image": "music",
+        "description":"In a soothing, repetitive tone, a young rabbit says goodnight to all the things in the room. Instead of plot, Goodnight Moon looks at the world from the eyes of a very young child, calming children with the ritual of naming each object around them. Lulling babies to sleep since 1947, this classic still ranks on bestseller lists, with some estimates of all-time copies sold worldwide topping 48 million. Find out more of the best books to help your child fall asleep."
+
+
+      },
+      {
+        "id": "4",
+        "name": "Cocktail party",
+        "hosted":"Kathrine Wallenberg",
+        "price": "800",
+        "duration": "4 hours",
+        "location": "Stockholm",
+        "image": "wine",
+        "description":"In a soothing, repetitive tone, a young rabbit says goodnight to all the things in the room. Instead of plot, Goodnight Moon looks at the world from the eyes of a very young child, calming children with the ritual of naming each object around them. Lulling babies to sleep since 1947, this classic still ranks on bestseller lists, with some estimates of all-time copies sold worldwide topping 48 million. Find out more of the best books to help your child fall asleep."
+      }
+    ]
+  }
