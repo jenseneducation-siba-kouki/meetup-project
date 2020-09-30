@@ -13,7 +13,7 @@
 
       Repeat Password
       <input type="password" v-model="user.repeatPassword" />
-          <a href="Page" class="btn">Register to MeetUp</a>
+          <a href="/Page" class="btn">Register to MeetUp</a>
 
     </form>
   </div>
